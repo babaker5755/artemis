@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 6.11.1-beta.1
+- improved canonical types handling
+
 ## 6.9.2-beta.1
 - Fixed `toJson() doesn't remove "kw$" prefix`
 
